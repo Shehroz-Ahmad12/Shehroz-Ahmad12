@@ -10,7 +10,7 @@
 </div>
 
 <!-- TYPING DATA -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0FE428E&size=35&center=true&vCenter=true&width=1000&lines=Greeting+Fellow+Developer+👋;I'm+Shehroz+Ahmad;I'm+from+Pakistan;I'm+23+years+old;Welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE428E&size=35&center=true&vCenter=true&width=1000&lines=Greeting+Fellow+Developer+👋;I'm+Shehroz+Ahmad;I'm+from+Pakistan;I'm+23+years+old;Welcome!)
 
   <br>
   <br>
