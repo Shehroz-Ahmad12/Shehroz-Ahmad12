@@ -4,23 +4,23 @@
 
 <div align="center" >
 <img align="center" width="300"  src="https://github.com/Shehroz-Ahmad12/Shehroz-Ahmad12/blob/main/assets/me.png">
+  <br>
+<br>
+
 </div>
 
-<br>
-<br>
 
 
 <!-- TYPING DATA -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Greeting Fellow Developers👋;I'm+Shehroz+Ahmad;I'm+from+Pakistan;I'm+23+years+old;Welcome!)
 
-<br>
-<br>
 
 
 
 
 
 <div align="center" style="margin-top: 30px;" >
+  <br>
   
   📚 Graduated from [COMSATS University Islamabad](https://www.comsats.edu.pk/)
   
