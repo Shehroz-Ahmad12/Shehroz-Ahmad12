@@ -1,4 +1,10 @@
+<style>
+  div {
+    margin-bottom: 20px;
+      margin-top: 20px;
 
+  }
+</style>
 <!-- GIT HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/blob/main/assets/banner-header.gif">
 
