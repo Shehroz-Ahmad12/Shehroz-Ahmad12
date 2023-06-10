@@ -2,8 +2,9 @@
 <!-- GIT HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/blob/main/assets/banner-header.gif">
 
-
-<img align="center" width="100"  src="https://github.com/Shehroz-Ahmad12/Shehroz-Ahmad12/blob/main/assets/me.png">
+<div align="center">
+<img align="center" width="300"  src="https://github.com/Shehroz-Ahmad12/Shehroz-Ahmad12/blob/main/assets/me.png">
+</div>
 
 
 <!-- TYPING DATA -->
@@ -54,8 +55,5 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shehroz-Ahmad12&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Shehroz-Ahmad12&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 <h2 align='center'> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-<p align="center">
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-</p>
-  
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
