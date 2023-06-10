@@ -1,10 +1,4 @@
-<style>
-  div {
-    margin-bottom: 20px;
-      margin-top: 20px;
 
-  }
-</style>
 <!-- GIT HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/blob/main/assets/banner-header.gif">
 
@@ -14,12 +8,16 @@
 <!-- TYPING DATA -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Pakistan;I'm+23+years+old;Welcome!)
 
+<br>
+<br>
 
 
-<div align="center" style="margin: 30px;">
+<div align="center" >
 <img align="center" width="300"  src="https://github.com/Shehroz-Ahmad12/Shehroz-Ahmad12/blob/main/assets/me.png">
 </div>
 
+<br>
+<br>
 
 
 <div align="center" style="margin-top: 30px;" >
@@ -58,7 +56,7 @@
 
 
 <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=andermendoza&theme=radical&hide_border=true"
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=Shehroz-Ahmad12&theme=radical&hide_border=true"
 </p>
 
   
