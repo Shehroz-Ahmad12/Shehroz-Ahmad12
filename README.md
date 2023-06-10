@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!-- GIT HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/blob/main/assets/banner-header.gif">
@@ -10,11 +9,11 @@
 <!-- BREVE DESCRIPCION -->
 <div align="center">
   
-  📚 I am graduated from [COMSATS University Islamabad](https://www.comsats.edu.pk/)
+  📚 Graduated from [COMSATS University Islamabad](https://www.comsats.edu.pk/)
   
-  🌱 I am currently learning **GraphQL** and **Docker**
+  🌱 Currently learning **GraphQL** and **Docker**
 
-💬 Ask me about **Software Development** and **Space**
+💬 Ask me about **Software Development** and **3d Modeling and Rendering**
 
 👩‍💻 Won 2nd Position for Final Year Project **Inland Freight and Logistic Automation** at COMSATS Career Expo.
 
@@ -38,11 +37,6 @@
 <br>
 
 
-<div align="center">  
-  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Shehroz-Ahmad12&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Dev github stats" /> 
-  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehroz-Ahmad12&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-</div>
 
 <p align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=andermendoza&theme=radical&hide_border=true"
@@ -53,7 +47,7 @@
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shehroz-Ahmad12&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Shehroz-Ahmad12&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<h2 align='center'> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
   
