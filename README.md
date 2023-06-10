@@ -19,7 +19,7 @@
   
   📚 Graduated from [COMSATS University Islamabad](https://www.comsats.edu.pk/)
   
-  🌱 Currently learning **Docker**, **Cloud Computing** and **Blende3d**
+  🌱 Currently learning **Docker**, **Cloud Computing** and **Blender3D**
 
 💬 Ask me about **Software Development** and **3d Modeling and Rendering**
 
