@@ -51,13 +51,13 @@
 
 
 <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=Shehroz-Ahmad12&theme=radical&hide_border=true"
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=ShehrozAhmadDev&theme=radical&hide_border=true"
 </p>
 
   
-  | ![Shehroz's github stats](https://github-readme-stats.vercel.app/api?username=Shehroz-Ahmad12&show_icons=true&theme=radical)             | ![Shehroz GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shehroz-Ahmad12&theme=radical)                                                                                                           |
+  | ![Shehroz's github stats](https://github-readme-stats.vercel.app/api?username=ShehrozAhmadDev&show_icons=true&theme=radical)             | ![Shehroz GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShehrozAhmadDev&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shehroz-Ahmad12&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Shehroz-Ahmad12&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehrozAhmadDev&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ShehrozAhmadDev&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
